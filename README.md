@@ -1,8 +1,7 @@
 # YOLOPY
 Pytorch2YOLO  
 requirements.txt中包含需求库  
-PTH下载:https://pan.dvrz.cn/s/JjHd    
-VOC数据集:https://pan.dvrz.cn/s/Qvcz  
+PTH和VOC都在https://pan.c1en.cn/s/2oun 
 # 数据集的准备  
 使用VOC格式进行训练，训练前需要下载好VOC07+12的数据集，解压后放在根目录  
 
